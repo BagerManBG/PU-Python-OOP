@@ -1,0 +1,102 @@
+[
+    {
+        "plate_id": "PB 1111 AA",
+        "brand": "BMW",
+        "model": "X3",
+        "fuel_cost": 6,
+        "price_per_hour": 10,
+        "price_per_day": 180,
+        "price_per_week": 600,
+        "available": 0
+    },
+    {
+        "plate_id": "PB 2222 AA",
+        "brand": "BMW",
+        "model": "X3",
+        "fuel_cost": 6,
+        "price_per_hour": 10,
+        "price_per_day": 180,
+        "price_per_week": 600,
+        "available": 0
+    },
+    {
+        "plate_id": "PB 3333 AA",
+        "brand": "BMW",
+        "model": "X3",
+        "fuel_cost": 6,
+        "price_per_hour": 10,
+        "price_per_day": 180,
+        "price_per_week": 600,
+        "available": 1
+    },
+    {
+        "plate_id": "PB 4444 AA",
+        "brand": "BMW",
+        "model": "X3",
+        "fuel_cost": 6,
+        "price_per_hour": 10,
+        "price_per_day": 180,
+        "price_per_week": 600,
+        "available": 1
+    },
+    {
+        "plate_id": "PB 5555 AA",
+        "brand": "BMW",
+        "model": "X3",
+        "fuel_cost": 6,
+        "price_per_hour": 10,
+        "price_per_day": 180,
+        "price_per_week": 600,
+        "available": 1
+    },
+    {
+        "plate_id": "PB 6666 AA",
+        "brand": "BMW",
+        "model": "X3",
+        "fuel_cost": 6,
+        "price_per_hour": 10,
+        "price_per_day": 180,
+        "price_per_week": 600,
+        "available": 1
+    },
+    {
+        "plate_id": "PB 7777 AA",
+        "brand": "BMW",
+        "model": "X3",
+        "fuel_cost": 6,
+        "price_per_hour": 10,
+        "price_per_day": 180,
+        "price_per_week": 600,
+        "available": 1
+    },
+    {
+        "plate_id": "PB 8888 AA",
+        "brand": "BMW",
+        "model": "X3",
+        "fuel_cost": 6,
+        "price_per_hour": 10,
+        "price_per_day": 180,
+        "price_per_week": 600,
+        "available": 1
+    },
+    {
+        "plate_id": "PB 9999 AA",
+        "brand": "BMW",
+        "model": "X3",
+        "fuel_cost": 6,
+        "price_per_hour": 10,
+        "price_per_day": 180,
+        "price_per_week": 600,
+        "available": 1
+    },
+    {
+        "plate_id": "PB 0000 AA",
+        "brand": "BMW",
+        "model": "X3",
+        "fuel_cost": 6,
+        "price_per_hour": 10,
+        "price_per_day": 180,
+        "price_per_week": 600,
+        "available": 0
+    }
+]
